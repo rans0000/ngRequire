@@ -1,0 +1,25 @@
+{
+  "name": "require-test",
+  "description": "A basic project setup using Angularjs and Requirejs",
+  "main": "html/index.html",
+  "authors": [
+    "Ranjith Raghavan (rans)"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "html/scripts/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-ui-router": "~0.2.15",
+    "requirejs": "~2.1.22"
+  }
+}
