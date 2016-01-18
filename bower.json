@@ -1,0 +1,20 @@
+{
+  "name": "require-test",
+  "description": "A basic project setup using Angularjs and Requirejs",
+  "main": "html/index.html",
+  "authors": [
+    "Ranjith Raghavan (rans)"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "html/scripts/vendor",
+    "test",
+    "tests"
+  ]
+}
